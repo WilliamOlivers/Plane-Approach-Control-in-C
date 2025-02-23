@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "typeinfo": "c",
+    "string.h": "c",
+    "sdl_image.h": "c"
+  }
+}
